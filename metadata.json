@@ -1,0 +1,6 @@
+{
+  "name": "ApexERP Enterprise - Multi-Tenant Cloud ERP",
+  "description": "Enterprise Multi-Tenant SaaS ERP Platform for manufacturing, trading, and distribution with double-entry accounting, perpetual inventory, procurement, and workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
